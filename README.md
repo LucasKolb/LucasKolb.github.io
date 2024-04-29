@@ -1,12 +1,12 @@
 # LucasKolb.github.io
-This is the set up for my website for my Q4
+This is the set up for my website for my Q4 
 Week 1:
-Set up basic pages for the games I will design. 
-Set up page theme.
-Learn to use GitHub effectivly.
+Set up basic pages for the games I will design. ✓
+Set up page theme.✓
+Learn to use GitHub effectivly.✓
 
 Week 2:
-Begin work on Mario game.
+Begin work on Mario game.✓
 Set up basic code into graphics
 Make user interface.
 Make points and levels
