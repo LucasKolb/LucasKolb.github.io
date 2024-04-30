@@ -35,5 +35,8 @@ Make user interface.
 Make points and levels
 Add it to main game page
 
+MAYBE ADD Tetris, Connect Four, 
+
+
 Finalize final changes/fix small bugs/change small layout options.
 Turn in.
