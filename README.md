@@ -20,7 +20,9 @@ Week 3:
 Begin work on Tic-Tac-Toe game
 Make it look nice/graphics
 Add it to main game page.
-https://www.youtube.com/watch?v=_FQgeYuxnKk at 7:23
+https://www.youtube.com/watch?v=_FQgeYuxnKk at 11:03
+Finish at home on wednesday
+
 Week 4:
 Begin work on a PacMan game.
 Set up basic code into graphics.
