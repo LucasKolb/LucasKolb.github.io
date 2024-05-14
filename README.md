@@ -10,7 +10,7 @@ Begin work on Mario game.✓
 Set up basic code into graphics
 {
 Download the Sprites at home and follow this tutorial: https://www.youtube.com/watch?v=x1gin-Yugys
-}
+} 
 
 Make user interface.
 Make points and levels
