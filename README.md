@@ -20,7 +20,7 @@ Week 3:
 Begin work on Tic-Tac-Toe game
 Make it look nice/graphics
 Add it to main game page.
-https://www.youtube.com/watch?v=_FQgeYuxnKk at 14:43
+https://www.youtube.com/watch?v=_FQgeYuxnKk at 16:41
 Finish at home on wednesday
 
 Week 4:
