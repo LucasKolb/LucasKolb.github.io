@@ -22,6 +22,31 @@ Make it look nice/graphics
 Add it to main game page.
 https://www.youtube.com/watch?v=_FQgeYuxnKk at 16:41
 Finish at home on wednesday
+const ContainerEl = document.querySelector('.container');
+let playertxt = document.querySelector('.message');
+let restartBtn = document.getElementById('restartbtn');
+let boxes = document.querySelectorAll('.box');
+
+const O_TXT = "O"
+const X_TXT = "X"
+
+
+let currentPlayer = X_TXT;
+let spaces = Array(9).fill(null);
+
+// start game
+
+const startGame = () => {
+  boxes.forEach((boxes) => boxs.addEventListener("click", boxClicked));
+};
+
+//box click
+function boxClicked(e){
+  console.log(e);
+}
+
+
+
 
 Week 4:
 Begin work on a PacMan game.
