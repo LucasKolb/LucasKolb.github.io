@@ -45,7 +45,7 @@ function boxClicked(e){
   console.log(e);
 }
 
-
+In Tic Tac Toe, work getting past the bugs.
 
 
 Week 4:
@@ -55,12 +55,12 @@ Make points and levels
 Add it to main game page.
 
 Week 5:
-Begin work on Pong game.
-Set up basic code into graphics
-Make user interface.
-Make points and levels
-Add it to main game page
-https://www.youtube.com/watch?v=jrqN0uZwhwk 
+Begin work on Pong game.✓
+Set up basic code into graphics✓
+Make user interface.✓
+Make points and levels✓
+Add it to main game page✓
+https://www.youtube.com/watch?v=jrqN0uZwhwk ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 
 
 
