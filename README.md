@@ -17,22 +17,13 @@ Make points and levels
 Add it to main game page.
 fd
 Week 3:
-Begin work on Tic-Tac-Toe game
-Make it look nice/graphics
+Begin work on Tic-Tac-Toe game✓
+Make it look nice/graphics✓
 Add it to main game page.
+Finx what you broke in tutorial ;(
 https://www.youtube.com/watch?v=_FQgeYuxnKk at 16:41
 Finish at home on wednesday
-const ContainerEl = document.querySelector('.container');
-let playertxt = document.querySelector('.message');
-let restartBtn = document.getElementById('restartbtn');
-let boxes = document.querySelectorAll('.box');
 
-const O_TXT = "O"
-const X_TXT = "X"
-
-
-let currentPlayer = X_TXT;
-let spaces = Array(9).fill(null);
 
 // start game
 
@@ -45,7 +36,7 @@ function boxClicked(e){
   console.log(e);
 }
 
-In Tic Tac Toe, work getting past the bugs.
+In Tic Tac Toe, work getting past the bugs. 
 
 
 Week 4:
