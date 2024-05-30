@@ -23,7 +23,7 @@ Add it to main game page.
 Finx what you broke in tutorial ;(
 https://www.youtube.com/watch?v=_FQgeYuxnKk at 16:41
 Finish at home on wednesday
-
+FIND WHAT YOU DID WRONG IN CODE, Click doesnt work,
 
 // start game
 
